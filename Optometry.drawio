@@ -12,11 +12,27 @@
         <mxCell id="mWiTqan6wdqoHke7x1nU-4" value="Optometrists" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="380" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="mWiTqan6wdqoHke7x1nU-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mWiTqan6wdqoHke7x1nU-6" target="mWiTqan6wdqoHke7x1nU-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="45" y="470" />
+              <mxPoint x="95" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mWiTqan6wdqoHke7x1nU-6" value="Refractionist" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="500" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="mWiTqan6wdqoHke7x1nU-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mWiTqan6wdqoHke7x1nU-7" target="mWiTqan6wdqoHke7x1nU-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="135" y="470" />
+              <mxPoint x="95" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mWiTqan6wdqoHke7x1nU-7" value="MLOP" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="500" width="30" height="60" as="geometry" />
+          <mxGeometry x="120" y="490" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
