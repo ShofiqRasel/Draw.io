@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14" pages="3">
-  <diagram id="M1IfxxrqOfipRsqaZ80W" name="Page-2">
-    <mxGraphModel dx="521" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="M1IfxxrqOfipRsqaZ80W" name="Stackholders">
+    <mxGraphModel dx="872" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-fa20izcHPhDNq7aNYys-8" value="Stack Holders:&lt;div&gt;&lt;ol&gt;&lt;li&gt;Optometrists&lt;/li&gt;&lt;li&gt;Refractionist&lt;/li&gt;&lt;li&gt;Optician.&lt;/li&gt;&lt;li&gt;Field Worker.&lt;/li&gt;&lt;li&gt;Development Partners.&lt;/li&gt;&lt;li&gt;Ophthalmologists.&lt;/li&gt;&lt;li&gt;RxforEye&lt;/li&gt;&lt;li&gt;Optical Shop.&lt;/li&gt;&lt;li&gt;Patient.&lt;/li&gt;&lt;li&gt;Eye care point.&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
+        <mxCell id="-fa20izcHPhDNq7aNYys-8" value="Stack Holders:&lt;div&gt;&lt;ol&gt;&lt;li&gt;Optometrists&lt;/li&gt;&lt;li&gt;Refractionist&lt;/li&gt;&lt;li&gt;Optician.&lt;/li&gt;&lt;li&gt;Field Worker.&lt;/li&gt;&lt;li&gt;Development Partners.&lt;/li&gt;&lt;li&gt;Ophthalmologists.&lt;/li&gt;&lt;li&gt;RxforEye&lt;/li&gt;&lt;li&gt;Optical Shop.&lt;/li&gt;&lt;li&gt;Patient.&lt;/li&gt;&lt;li&gt;Eye care point.&lt;/li&gt;&lt;li&gt;Administrative&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
           <mxGeometry x="90" y="120" width="260" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="7hpq5icfxMaAIC5KAc8j-1" value="List of pages:&lt;div&gt;&lt;ol&gt;&lt;li&gt;Login&lt;/li&gt;&lt;li&gt;Logout&lt;/li&gt;&lt;li&gt;Edit profile&lt;/li&gt;&lt;li&gt;Registration&lt;/li&gt;&lt;li&gt;Visual acuity.&lt;/li&gt;&lt;li&gt;Second opinion.&lt;/li&gt;&lt;li&gt;Complaints.&lt;/li&gt;&lt;li&gt;Systemet8c illness.&lt;/li&gt;&lt;li&gt;Nutritional status.&lt;/li&gt;&lt;li&gt;Diabetes&amp;nbsp;&lt;/li&gt;&lt;li&gt;Findings&lt;/li&gt;&lt;li&gt;Working environment.&lt;/li&gt;&lt;li&gt;Investigation.&lt;/li&gt;&lt;li&gt;Refraction. ( sub/obj/cyclo)&lt;/li&gt;&lt;li&gt;Funduscopy.&lt;/li&gt;&lt;li&gt;Advice.&lt;/li&gt;&lt;li&gt;Prescription.&lt;/li&gt;&lt;li&gt;Treatment.(theraphy/surgical/medicine)&lt;/li&gt;&lt;li&gt;Patient dashboard.&lt;/li&gt;&lt;li&gt;The family member&lt;/li&gt;&lt;li&gt;Follow up&lt;/li&gt;&lt;li&gt;Medicine ordered&lt;/li&gt;&lt;li&gt;Glass order.&lt;/li&gt;&lt;li&gt;Previous treatment history.&lt;/li&gt;&lt;li&gt;Reports and printing.&lt;/li&gt;&lt;li&gt;Share information.&lt;/li&gt;&lt;li&gt;Optical Shop index.&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+        <mxCell id="7hpq5icfxMaAIC5KAc8j-1" value="List of pages:&lt;div&gt;&lt;ol&gt;&lt;li&gt;Login&lt;/li&gt;&lt;li&gt;Logout&lt;/li&gt;&lt;li&gt;Edit profile&lt;/li&gt;&lt;li&gt;Registration&lt;/li&gt;&lt;li&gt;Visual acuity.&lt;/li&gt;&lt;li&gt;Second opinion.&lt;/li&gt;&lt;li&gt;Complaints.&lt;/li&gt;&lt;li&gt;Systemet8c illness.&lt;/li&gt;&lt;li&gt;Nutritional status.&lt;/li&gt;&lt;li&gt;Diabetes&amp;nbsp;&lt;/li&gt;&lt;li&gt;Findings&lt;/li&gt;&lt;li&gt;Working environment.&lt;/li&gt;&lt;li&gt;Investigation.&lt;/li&gt;&lt;li&gt;Refraction. ( sub/obj/cyclo)&lt;/li&gt;&lt;li&gt;Funduscopy.&lt;/li&gt;&lt;li&gt;Advice.&lt;/li&gt;&lt;li&gt;Prescription.&lt;/li&gt;&lt;li&gt;Treatment.(theraphy/surgical/medicine)&lt;/li&gt;&lt;li&gt;Patient dashboard.&lt;/li&gt;&lt;li&gt;The family member&lt;/li&gt;&lt;li&gt;Follow up&lt;/li&gt;&lt;li&gt;Medicine ordered&lt;/li&gt;&lt;li&gt;Glass order.&lt;/li&gt;&lt;li&gt;Previous treatment history.&lt;/li&gt;&lt;li&gt;Reports and printing.&lt;/li&gt;&lt;li&gt;Share information.&lt;/li&gt;&lt;li&gt;Optical Shop index.&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
           <mxGeometry x="210" y="500" width="260" height="330" as="geometry" />
         </mxCell>
       </root>
@@ -20,7 +20,7 @@
         <mxCell id="1" parent="0" />
         <mxCell id="XrN8ogISlN5GDTWlXnPC-1" value="OptometryHelper" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="140" width="500" height="900" as="geometry">
-            <mxRectangle x="300" y="120" width="140" height="30" as="alternateBounds" />
+            <mxRectangle x="190" y="140" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XrN8ogISlN5GDTWlXnPC-2" value="Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="XrN8ogISlN5GDTWlXnPC-1">
@@ -48,7 +48,7 @@
           <mxGeometry x="267.5" y="590" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XrN8ogISlN5GDTWlXnPC-13" value="Working environment." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="XrN8ogISlN5GDTWlXnPC-1">
-          <mxGeometry x="330" y="410" width="80" height="40" as="geometry" />
+          <mxGeometry x="330" y="410" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XrN8ogISlN5GDTWlXnPC-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="XrN8ogISlN5GDTWlXnPC-1" target="XrN8ogISlN5GDTWlXnPC-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
